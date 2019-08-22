@@ -12,7 +12,6 @@ namespace SoccerTournamentLibrary
         public TeamModel Winner { get; set; }
         public int MatchupRound { get; set }
        
-        //just a test. delete when done
 
     }
 }

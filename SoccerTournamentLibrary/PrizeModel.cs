@@ -13,5 +13,7 @@ namespace SoccerTournamentLibrary
         public decimal PrizeAmount { get; set; }
         public double PrizePercentage { get; set; }
 
+        //This need to be deleted
+
     }
 }
